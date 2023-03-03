@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91a08121-ab3f-4736-8897-9d11c4c43a69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ListsortDemo.java" afterDir="false" />
+    <list default="true" id="91a08121-ab3f-4736-8897-9d11c4c43a69" name="Changes" comment="added ListsortDemo;">
+      <change afterPath="$PROJECT_DIR$/src/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CartSortDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CartTotalItemsComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CartUsernameComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ListsortDemo">
+  <component name="RunManager" selected="Application.CartSortDemo">
+    <configuration name="CartSortDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CartSortDemo" />
+      <module name="Sort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DemoEmployee" />
       <module name="Sort" />
@@ -56,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CartSortDemo" />
         <item itemvalue="Application.ListsortDemo" />
         <item itemvalue="Application.DemoEmployee" />
       </list>
@@ -70,6 +79,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677870316637</updated>
     </task>
+    <task id="LOCAL-00001" summary="added ListsortDemo;">
+      <created>1677872320210</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677872320210</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,5 +99,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added ListsortDemo;" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ListsortDemo;" />
   </component>
 </project>
